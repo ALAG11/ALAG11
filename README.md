@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007DFF&height=120&section=header&cachebust=1"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007DFF&height=120&section=header&cachebust=1&disable_animations=1"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff8000&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Alok+Agnihotri;c8e539da111568c993bef253564b07e6df69b8752d5bf6fa1de18486df51a775;+:%29)](https://git.io/typing-svg)![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
@@ -27,19 +27,19 @@ I am an Android App Developer as well as a Full Stack Web Developer skilled in C
 
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=alag11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cachebust=1" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alag11&theme=tokyonight&hide_border=true&cachebust=1" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=alag11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cachebust=1&disable_animations=1" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alag11&theme=tokyonight&hide_border=true&cachebust=1&disable_animations=1" alt="GitHub Streak Stats" />
 </div>
 
-[![Alok's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alag11&bg_color=000033&color=ff8000&line=ffff00&point=cc6600&area=true&hide_border=true&cachebust=1)](https://github.com/alag11/github-readme-activity-graph)
+[![Alok's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alag11&bg_color=000033&color=ff8000&line=ffff00&point=cc6600&area=true&hide_border=true&cachebust=1%disable_animations=1)](https://github.com/alag11/github-readme-activity-graph)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alag11&langs_count=15&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cachebust=1)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alag11&langs_count=15&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cachebust=1&disable_animations=1)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alag11&theme=algolia&no-frame=true&no-bg=false&margin-w=4&cachebust=1)
+![](https://github-profile-trophy.vercel.app/?username=alag11&theme=algolia&no-frame=true&no-bg=false&margin-w=4&cachebust=1&disable_animations=1)
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alag11&limit=6&theme=tokyonight&combine_all_yearly_contributions=true&cachebust=1)
+![](https://github-contributor-stats.vercel.app/api?username=alag11&limit=6&theme=tokyonight&combine_all_yearly_contributions=true&cachebust=1&disable_animations=1)
 
 ---
 <div align="center">
@@ -48,4 +48,4 @@ I am an Android App Developer as well as a Full Stack Web Developer skilled in C
  <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007DFF&height=120&section=footer&cachebust=1"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007DFF&height=120&section=footer&cachebust=1&disable_animations=1"/>
