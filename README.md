@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-I am a tech enthusiast currently pursuing my B. Tech in Computer Science and Engineering from SRM Institute of Science and Technology, Kattankulathur, Chennai, Tamil Nadu.
+I am a tech enthusiast currently pursuing my B. Tech in Computer Science and Engineering from SRM Institute of Science and Technology, Kattankulathur, Chennai, Tamil Nadu, India.
 
 I am an Android App Developer as well as a Full Stack Web Developer skilled in C, C++, Java, Python, HTML and CSS programming. I am also a Web Application Pentester and a Cybersecurity Analyst having impeccable knowledge about Networking and Penetration Testing and have experience working on Kali Linux and its Tools.
 
