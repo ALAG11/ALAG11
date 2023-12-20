@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff8000&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Alok+Agnihotri;c8e539da111568c993bef253564b07e6df69b8752d5bf6fa1de18486df51a775;+:%29)](https://git.io/typing-svg)![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-<h3 align="center">A passionate Android App Developer | Full Stack Web Developer | Penetration Tester | Cybersecurity Analyst | Vulnerability Analyst</h3>
+<h3 align="center">A passionate Android App Developer| Penetration Tester | Vulnerability Analyst | Cybersecurity Analyst | Full Stack Web Developer</h3>
 
 # 💫 About Me:
 
@@ -18,7 +18,6 @@ I am an Android App Developer as well as a Full Stack Web Developer skilled in C
 <a href="https://www.hackerrank.com/ap8399" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ap8399" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/al-ag11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="al-ag11" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ap83syn4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ap83syn4" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@ap8399" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="ap8399" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
