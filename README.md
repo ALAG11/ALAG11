@@ -6,10 +6,15 @@
 
 # 💫 About Me:
 
-I am a tech enthusiast currently pursuing my B. Tech in Computer Science and Engineering from SRM Institute of Science and Technology, Kattankulathur, Chennai, Tamil Nadu, India.
+I am a 20-year-old currently pursuing my B. Tech in Computer Science and Engineering from SRM Institute of Science and Technology, Kattankulathur, Chennai, Tamil Nadu.
 
-I am an Android App Developer as well as a Full Stack Web Developer skilled in C, C++, Java, Python, HTML and CSS programming. I am also a Web Application Pentester and a Cybersecurity Analyst having impeccable knowledge about Networking and Penetration Testing and have experience working on Kali Linux and its Tools.
+I am skilled in Machine Learning and Data Science, capable of designing and implementing sophisticated models and algorithms to extract insights from data and make predictions.
 
+In addition to this, I am an Android App Developer also skilled in C, C++, Java, Python and JavaScript programming. I have knowledge and experience working with various Frontend and Backend Frameworks for Mobile Applications like React Native,etc.
+
+I am also a Web Application Pentester and a Vulnerability Analyst having impeccable knowledge about Networking and Penetration Testing and have experience working on Kali Linux and Parrot OS and its Tools.
+
+Currently, I am involved in making various Data Science/Machine Learning and Android Application Projects and doing Penetration Testing, improving the security of various Web Applications, and enhancing my knowledge on the same.
 
 ## 🌐 Socials:
 <p align="left"><a href="https://www.linkedin.com/in/alok-agnihotri-422a2826a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
