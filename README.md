@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff8000&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Alok+Agnihotri;c8e539da111568c993bef253564b07e6df69b8752d5bf6fa1de18486df51a775;+:%29)](https://git.io/typing-svg)![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-<h3 align="center">A passionate Android App Developer | Penetration Tester | Vulnerability Analyst | Cybersecurity Analyst | </h3>
+<h3 align="center">A passionate Data Science and AI/ML Engineer | Android App Developer | Penetration Tester | Vulnerability Analyst | Cybersecurity Analyst</h3>
 
 # 💫 About Me:
 
