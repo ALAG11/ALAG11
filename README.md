@@ -6,15 +6,13 @@
 
 # 💫 About Me:
 
-I am a 20-year-old currently pursuing my B. Tech in Computer Science and Engineering from SRM Institute of Science and Technology, Kattankulathur, Chennai, Tamil Nadu.
+Highly motivated and versatile Computer Science student pursuing a B. Tech in Computer Science and Engineering at SRM Institute of Science and Technology. Proficient in Machine Learning and Data Science, adept at designing and implementing sophisticated models and algorithms to extract insights from data and drive informed decisions.
 
-I am skilled in Machine Learning and Data Science, capable of designing and implementing sophisticated models and algorithms to extract insights from data and make predictions.
+As an Android App Developer, I have a strong command of C, C++, Java, Python, and JavaScript, with hands-on experience in various Frontend and Backend Frameworks, including React Native. My passion lies in creating intuitive and efficient mobile applications.
 
-In addition to this, I am an Android App Developer also skilled in C, C++, Java, Python and JavaScript programming. I have knowledge and experience working with various Frontend and Backend Frameworks for Mobile Applications like React Native,etc.
+Additionally, I excel as a Web Application Pentester and Vulnerability Analyst, leveraging my impeccable knowledge of Networking and Penetration Testing. I’ve worked extensively with tools on Kali Linux and Parrot OS, enhancing the security of web applications and contributing to a safer digital landscape.
 
-I am also a Web Application Pentester and a Vulnerability Analyst having impeccable knowledge about Networking and Penetration Testing and have experience working on Kali Linux and Parrot OS and its Tools.
-
-Currently, I am involved in making various Data Science/Machine Learning and Android Application Projects and doing Penetration Testing, improving the security of various Web Applications, and enhancing my knowledge on the same.
+Currently, I’m actively involved in diverse projects spanning Data Science/Machine Learning and Android Application Development, continuously expanding my skill set and knowledge base.
 
 ## 🌐 Socials:
 <p align="left"><a href="https://www.linkedin.com/in/alok-agnihotri-422a2826a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
