@@ -12,7 +12,7 @@ As an Android App Developer, I have a strong command of C, C++, Java, Python, an
 
 Additionally, I excel as a Web Application Pentester and Vulnerability Analyst, leveraging my impeccable knowledge of Networking and Penetration Testing. I’ve worked extensively with tools on Kali Linux and Parrot OS, enhancing the security of web applications and contributing to a safer digital landscape.
 
-Currently, I’m actively involved in diverse projects spanning Data Science/Machine Learning and Android Application Development, continuously expanding my skill set and knowledge base.
+Currently, I’m actively involved in diverse projects spanning Data Science/Machine Learning/Deep Learning and Android Application Development, continuously expanding my skill set and knowledge base.
 
 ## 🌐 Socials:
 <p align="left"><a href="https://www.linkedin.com/in/alok-agnihotri-422a2826a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
