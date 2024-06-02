@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-Highly motivated and versatile Computer Science student pursuing a B. Tech in Computer Science and Engineering at SRM Institute of Science and Technology. Proficient in Machine Learning and Data Science, adept at designing and implementing sophisticated models and algorithms to extract insights from data and drive informed decisions.
+Highly motivated and versatile Computer Science student pursuing B. Tech in Computer Science and Engineering at SRM Institute of Science and Technology. Proficient in Machine Learning and Data Science, adept at designing and implementing sophisticated models and algorithms to extract insights from data and drive informed decisions.
 
 As an Android App Developer, I have a strong command of C, C++, Java, Python, and JavaScript, with hands-on experience in various Frontend and Backend Frameworks, including React Native. My passion lies in creating intuitive and efficient mobile applications.
 
