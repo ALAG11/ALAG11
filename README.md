@@ -19,8 +19,6 @@ Currently, I’m actively involved in diverse projects spanning Artificial Intel
 
  <h3 align="left">"<>" Coding Platforms I Am On:</h3>
 <a href="https://www.hackerrank.com/ap8399" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ap8399" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/al-ag11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="al-ag11" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ap83syn4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ap83syn4" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
