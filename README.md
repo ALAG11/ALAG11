@@ -2,17 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff8000&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Alok+Agnihotri;+A+Passionate+Data+Science+and+AI/ML/DL+Engineer;+Penetration+Tester;+Vulnerability+Analyst;+Cybersecurity+Analyst;+Android+App+Developer;c8e539da111568c993bef253564b07e6df69b8752d5bf6fa1de18486df51a775;+:%29)](https://git.io/typing-svg)![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-<h3 align="center">A Passionate Data Science and AI/ML/DL Engineer | Android App Developer | Penetration Tester | Vulnerability Analyst | Cybersecurity Analyst</h3>
+<h3 align="center">A Passionate Data Science and AI/ML/DL Engineer | Penetration Tester | Vulnerability Analyst | Cybersecurity Analyst | Android App Developer</h3>
 
 # 💫 About Me:
 
-Highly motivated and versatile Computer Science student pursuing B. Tech in Computer Science and Engineering at SRM Institute of Science and Technology. Proficient in Machine Learning and Data Science, adept at designing and implementing sophisticated models and algorithms to extract insights from data and drive informed decisions.
+Highly motivated and versatile Computer Science student pursuing B. Tech in Computer Science and Engineering at SRM Institute of Science and Technology. Proficient in Machine Learning and Data Science, adept at designing and implementing sophisticated machine learning and deep learning models and algorithms to extract insights from data and drive informed decisions.
 
-As an Android App Developer, I have a strong command of C, C++, Java, Python, and JavaScript, with hands-on experience in Frontend and Backend Frameworks, including React Native. My passion lies in creating intuitive and efficient mobile applications.
+I excel as a Web Application Pentester and Vulnerability Analyst, leveraging my impeccable knowledge of Networking and Penetration Testing. I’ve worked extensively with tools on Kali Linux and Parrot OS, enhancing the security of web applications and contributing to a safer digital landscape.
 
-Additionally, I excel as a Web Application Pentester and Vulnerability Analyst, leveraging my impeccable knowledge of Networking and Penetration Testing. I’ve worked extensively with tools on Kali Linux and Parrot OS, enhancing the security of web applications and contributing to a safer digital landscape.
+Additionally, as an Android App Developer, I have a strong command of C, C++, Java, Python, and JavaScript, with hands-on experience in Frontend and Backend Frameworks, including React Native. My passion lies in creating intuitive and efficient mobile applications.
 
-Currently, I’m actively involved in diverse projects spanning Artificial Intelligence/Data Science/Machine Learning/Deep Learning and Android Application Development, continuously expanding my skill set and knowledge base.
+Currently, I’m actively involved in diverse projects spanning Artificial Intelligence / Data Science / Machine Learning / Deep Learning, Cybersecurity and Android Application Development, continuously expanding my skill set and knowledge base.
 
 ## 🌐 Socials:
 <p align="left"><a href="https://www.linkedin.com/in/alok-agnihotri-422a2826a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
