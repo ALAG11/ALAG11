@@ -6,13 +6,13 @@
 
 # 💫 About Me:
 
-Highly motivated and versatile Computer Science student pursuing B. Tech in Computer Science and Engineering at SRM Institute of Science and Technology. Proficient in Machine Learning and Data Science, adept at designing and implementing sophisticated machine learning and deep learning models and algorithms to extract insights from data and drive informed decisions.
+Highly motivated and versatile Machine Learning and Data Science engineer, adept at designing and implementing sophisticated machine learning and deep learning models and algorithms to extract insights from data and drive informed decisions.
 
 I excel as a Web Application Pentester and Vulnerability Analyst, leveraging my impeccable knowledge of Networking and Penetration Testing. I’ve worked extensively with tools on Kali Linux and Parrot OS, enhancing the security of web applications and contributing to a safer digital landscape.
 
 Additionally, as an Android App Developer, I have a strong command of C, C++, Java, Python, and JavaScript, with hands-on experience in Frontend and Backend Frameworks, including React Native. My passion lies in creating intuitive and efficient mobile applications.
 
-Currently, I’m actively involved in diverse projects spanning Artificial Intelligence / Data Science / Machine Learning / Deep Learning, Cybersecurity and Android Application Development, continuously expanding my skill set and knowledge base.
+Currently, I’m actively involved in diverse projects spanning Artificial Intelligence / Machine Learning / Deep Learning / Data Science, Cybersecurity and Android Application Development, continuously expanding my skill set and knowledge base.
 
 ## 🌐 Socials:
 <p align="left"><a href="https://www.linkedin.com/in/alok-agnihotri-422a2826a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
